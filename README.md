@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Shristi 👋</h1>
-<p align="center"><i>Business student by degree, code tinkerer by curiosity.</i></p>
+<p align="center"><i>Business analytics student by degree, code tinkerer by curiosity.</i></p>
 
 ---
 
